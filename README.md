@@ -8,3 +8,6 @@
 #### Deep Learning Model: A neural network model is trained on the embeddings to predict sentiment.
 #### Data Preprocessing: The pipeline includes text cleaning, tokenization, stopword removal, and vectorization.
 #### Evaluation Metrics: The model is evaluated using accuracy, precision, recall, and F1-score.
+
+
+![Alt text](https://github.com/essamalaa1/Twitter-Sentiment-Analysis/blob/main/1.png)
