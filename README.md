@@ -10,4 +10,4 @@
 #### Evaluation Metrics: The model is evaluated using accuracy, precision, recall, and F1-score.
 
 
-![Alt text](https://github.com/essamalaa1/Twitter-Sentiment-Analysis/blob/main/1.png)
+![Alt text](https://github.com/essamalaa1/Twitter-Sentiment-Analysis/blob/main/images.png)
