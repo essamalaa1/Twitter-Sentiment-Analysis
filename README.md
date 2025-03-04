@@ -1,5 +1,5 @@
 # Twitter-Sentiment-Analysis
-Twitter Sentiment Analysis
+### Twitter Sentiment Analysis
 This project implements a Twitter sentiment analysis model using Word2Vec embeddings for feature representation. The model is trained to classify tweets into different sentiment categories, leveraging natural language processing (NLP) techniques.
 
 Features
