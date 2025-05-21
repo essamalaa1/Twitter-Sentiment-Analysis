@@ -19,7 +19,6 @@ Additionally, for both models, a custom Python implementation of the LSTM forwar
 - [Requirements](#requirements)
 - [Setup & Installation](#setup--installation)
 - [Usage](#usage)
-- [File Structure](#file-structure)
 
 ## Dataset
 The project uses a Twitter dataset named `DATA.csv`.
